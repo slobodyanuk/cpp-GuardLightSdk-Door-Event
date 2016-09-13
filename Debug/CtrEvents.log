@@ -1,0 +1,17 @@
+﻿Build started 13.09.2016 11:02:26.
+     1>Project "D:\Programs\SDK Guard\VCPP\Examples\CtrEvents\CtrEvents.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         D:\Programs\vs2012\VC\bin\CL.exe /c /I"D:\Programs\SDK Guard\VCPP\Examples\CtrEvents\..\.." /I"D:\Programs\SDK Guard\VCPP\Examples\CtrEvents\.." /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\CtrEvents.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt CtrEvents.cpp
+         CtrEvents.cpp
+       Link:
+         D:\Programs\vs2012\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Programs\SDK Guard\VCPP\Examples\Debug\CtrEvents.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Programs\SDK Guard\VCPP\Examples\CtrEvents\..\.." kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Programs\SDK Guard\VCPP\Examples\Debug\CtrEvents.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Programs\SDK Guard\VCPP\Examples\Debug\CtrEvents.lib" /MACHINE:X86 Debug\ZGuard.obj
+         Debug\ZPort.obj
+         Debug\Utils.obj
+         Debug\CtrEvents.obj
+         Debug\stdafx.obj
+         CtrEvents.vcxproj -> D:\Programs\SDK Guard\VCPP\Examples\Debug\CtrEvents.exe
+     1>Done Building Project "D:\Programs\SDK Guard\VCPP\Examples\CtrEvents\CtrEvents.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.61
